@@ -11,7 +11,7 @@ These instructions will (hopefully) get you a copy of the project up and running
 
 ### Installing
 
-* Follow the <a href='https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md'>Installation</a> instructions. Also find the Prerequisites.
+* Follow the <a href='https://github.com/suhail511/models/blob/master/research/object_detection/g3doc/installation.md'>Installation</a> instructions. Also find the Prerequisites.
 
 * <a href='https://github.com/tzutalin/labelImg'>labelImg</a> was used to label Stopsign Images
 
