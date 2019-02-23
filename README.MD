@@ -53,6 +53,13 @@ tensorflow/models/research on your system.
 ```bash
 python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_inception_v2_pets.config
 ```
+
+## Sample Results
+
+![](images/stopsign01.jpg)
+
+![](images/stopsign02.jpg)
+
 ## Contribution(s)
 
 1. [This repository](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
