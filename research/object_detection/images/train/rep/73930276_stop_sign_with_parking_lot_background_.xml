@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stopsign</folder>
+	<filename>73930276_stop_sign_with_parking_lot_background_.jpg</filename>
+	<path>/Users/suhailahamed/versionControl/stop_sign_detection/img/stopsign/train/73930276_stop_sign_with_parking_lot_background_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>296</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stopsign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>40</ymin>
+			<xmax>250</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

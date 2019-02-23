@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stopsign</folder>
+	<filename>00010_00025.jpg</filename>
+	<path>/Users/suhailahamed/versionControl/stop_sign_detection/img/stopsign/train/00010_00025.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>122</width>
+		<height>133</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stopsign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>12</ymin>
+			<xmax>111</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

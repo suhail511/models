@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stopsign</folder>
+	<filename>no_parking_any_time_and_arrow_signs_mounted_on_stop_sign_pole_illustration_idAA053886.jpg</filename>
+	<path>/Users/suhailahamed/versionControl/stop_sign_detection/img/stopsign/train/no_parking_any_time_and_arrow_signs_mounted_on_stop_sign_pole_illustration_idAA053886.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>366</width>
+		<height>467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stopsign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>30</ymin>
+			<xmax>262</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

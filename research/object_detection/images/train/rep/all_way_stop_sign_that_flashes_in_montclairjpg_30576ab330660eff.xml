@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stopsign</folder>
+	<filename>all_way_stop_sign_that_flashes_in_montclairjpg_30576ab330660eff.jpg</filename>
+	<path>/Users/suhailahamed/versionControl/stop_sign_detection/img/stopsign/train/all_way_stop_sign_that_flashes_in_montclairjpg_30576ab330660eff.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stopsign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1368</xmin>
+			<ymin>137</ymin>
+			<xmax>1700</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

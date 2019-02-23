@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stopsign</folder>
+	<filename>hexagonal_stop_sign_and_stop_in_the_road_at_a_rural_cross_roads_county_AJG3G3.jpg</filename>
+	<path>/Users/suhailahamed/versionControl/stop_sign_detection/img/stopsign/train/hexagonal_stop_sign_and_stop_in_the_road_at_a_rural_cross_roads_county_AJG3G3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>954</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stopsign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>130</ymin>
+			<xmax>352</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

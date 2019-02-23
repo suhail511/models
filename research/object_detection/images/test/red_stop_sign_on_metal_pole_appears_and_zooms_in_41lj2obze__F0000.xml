@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stopsign</folder>
+	<filename>red_stop_sign_on_metal_pole_appears_and_zooms_in_41lj2obze__F0000.png</filename>
+	<path>/Users/suhailahamed/versionControl/stop_sign_detection/img/stopsign/test/red_stop_sign_on_metal_pole_appears_and_zooms_in_41lj2obze__F0000.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stopsign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1239</xmin>
+			<ymin>426</ymin>
+			<xmax>2595</xmax>
+			<ymax>1789</ymax>
+		</bndbox>
+	</object>
+</annotation>

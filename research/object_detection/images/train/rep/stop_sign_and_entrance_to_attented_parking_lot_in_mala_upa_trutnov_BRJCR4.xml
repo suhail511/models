@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stopsign</folder>
+	<filename>stop_sign_and_entrance_to_attented_parking_lot_in_mala_upa_trutnov_BRJCR4.jpg</filename>
+	<path>/Users/suhailahamed/versionControl/stop_sign_detection/img/stopsign/train/stop_sign_and_entrance_to_attented_parking_lot_in_mala_upa_trutnov_BRJCR4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stopsign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>219</ymin>
+			<xmax>648</xmax>
+			<ymax>670</ymax>
+		</bndbox>
+	</object>
+</annotation>

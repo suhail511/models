@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stopsign</folder>
+	<filename>school_bus_busy_road_intersection_stop_sign_hd_1551_e1zw8ws8x__F0000.png</filename>
+	<path>/Users/suhailahamed/versionControl/stop_sign_detection/img/stopsign/train/school_bus_busy_road_intersection_stop_sign_hd_1551_e1zw8ws8x__F0000.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stopsign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>720</xmin>
+			<ymin>429</ymin>
+			<xmax>890</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+</annotation>

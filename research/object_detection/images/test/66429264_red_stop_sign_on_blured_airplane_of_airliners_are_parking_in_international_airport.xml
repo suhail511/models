@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stopsign</folder>
+	<filename>66429264_red_stop_sign_on_blured_airplane_of_airliners_are_parking_in_international_airport.jpg</filename>
+	<path>/Users/suhailahamed/versionControl/stop_sign_detection/img/stopsign/test/66429264_red_stop_sign_on_blured_airplane_of_airliners_are_parking_in_international_airport.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stopsign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>841</xmin>
+			<ymin>194</ymin>
+			<xmax>1270</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+</annotation>
