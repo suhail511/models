@@ -2,8 +2,6 @@
 
 This project target is to train a model to detect Stop Sign - Traffic signs with GTSDB dataset + Google Image search Images and Tensorflow object detection API.
 
-Follow <a href='https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/'>this tutorial</a>.
-
 This was done in  macOS High Sierra 10.13.6
 
 ## Getting Started
@@ -53,8 +51,12 @@ tensorflow/models/research on your system.
 ### From within ```models/research/object_detection``` run:
 
 ```bash
-python3 model_main.py --logtostderr --train_dir=training/ --pipeline_config_path=training/ssd_mobilenet_v1_coco.config
+python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_inception_v2_pets.config
 ```
+## Contribution(s)
 
-**New one coming soon**
+1. [This repository](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
+2. Also check [this video](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
+
+**Please let me know if you have any issues or if you have any suggestions for making this README better. If you thought a certain step was unclear, let me know and I'll try my best to edit the README and make any clarifications.**
 
